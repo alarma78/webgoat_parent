@@ -7,5 +7,6 @@
         <groupId>org.owasp.webgoat.lesson</groupId>
         <artifactId>webgoat-lessons-parent</artifactId>
         <version>8.2.3-SNAPSHOT</version>
+<description>This is just a new description -- second description</description>
     </parent>
 </project>
